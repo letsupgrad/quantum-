@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+streamlit_lottie
+time
+itertools
+matplotlib
